@@ -5,8 +5,8 @@
 
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report] (https://github.com/anand5566-creator/Ms-Excel/blob/main/Customer%20Performace%20Report.pdf)
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/anand5566-creator/Ms-Excel/blob/main/Market%20Performance%20Vs%20Target.pdf)_
+    **1.** Create a [customer performance report](https://github.com/anand5566-creator/Ms-Excel/blob/main/Customer%20Performace%20Report.pdf)
+    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/anand5566-creator/Ms-Excel/blob/main/Market%20Performance%20and%20Sales%20Target.pdf)_
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
